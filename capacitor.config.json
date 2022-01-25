@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "oil-rescue",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
